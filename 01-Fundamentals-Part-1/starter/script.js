@@ -15,3 +15,7 @@ language = "Portugues"
 
 
 console.log(`O meu país é uma ilha? ${isIsland}, o ${meuPais} contêm ${populacaoBr} de habitantes e sua lingua materna é o ${language}`);
+
+// LECTURE: let, const and var
+
+const language = "Portugues"
